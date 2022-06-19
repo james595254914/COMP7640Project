@@ -1,0 +1,4 @@
+1. list order's item
+2. add new customer (if need add new customer)
+3. get next customer ID (if need add new customer)
+4. list customer's orders
