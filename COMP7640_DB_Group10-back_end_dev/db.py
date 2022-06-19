@@ -2,8 +2,8 @@ import pymysql
 
 
 def connection():
-    return pymysql.connect(host='175.178.71.209',
-                           user='comp',
-                           password='comp7640',
-                           database='comp7640',
+    return pymysql.connect(host='localhost',
+                           user='root',
+                           password='gg123',
+                           database='project',
                            charset='utf8')
